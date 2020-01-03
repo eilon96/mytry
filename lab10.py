@@ -5,7 +5,7 @@ class A:
         print(self.uuu)
         return self
     def add(self,a):
-        self.uuu += a
+
         return self
 if __name__ == '__main__':
     a= A()
