@@ -10,3 +10,4 @@ class A:
 if __name__ == '__main__':
     a= A()
     a.print().add("a")
+    print("commit")
